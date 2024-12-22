@@ -1,0 +1,5 @@
+a attack
+u useAbility
+s save
+l load
+q quit
