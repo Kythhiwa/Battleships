@@ -1,0 +1,3 @@
+/home/kythhiwa/Battleships/build/CMakeFiles/OOPTRUE.dir
+/home/kythhiwa/Battleships/build/CMakeFiles/edit_cache.dir
+/home/kythhiwa/Battleships/build/CMakeFiles/rebuild_cache.dir
